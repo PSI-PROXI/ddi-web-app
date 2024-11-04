@@ -132,7 +132,8 @@
               "src/assets",
               "src/.well-known",
               "src/favicon.ico",
-              "src/test"
+              "src/test",
+              "src/google53ea4a441829fdcb.html"
             ]
           }
         },
