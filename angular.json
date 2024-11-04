@@ -26,7 +26,8 @@
               "src/assets",
               "src/.well-known",
               "src/favicon.ico",
-              "src/test"
+              "src/test",
+              "src/google53ea4a441829fdcb.html"
             ],
             "styles": [
               "src/css/984-24-col-fluid.css",
